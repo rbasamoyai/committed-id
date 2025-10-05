@@ -1,1 +1,4 @@
 # committed-id
+
+Committed identity: 880e86f89f1f10bed7fbe62a868df21a2765e8b293a54ae8e41152fdb25fd9c426ed7cf1e84b3648cfc4c9c35cf9999081eb17ac4b43527440c5bb99a6b4225c
+SHA-512
